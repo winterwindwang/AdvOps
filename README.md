@@ -1,5 +1,3 @@
-[TOC]
-
 # AdvOps: Decoupling Adversarial Examples
 
 The official code for **AdvOps: Decoupling Adversarial Examples**.
